@@ -1,0 +1,30 @@
+yemek_adi: "lahmacun"
+fiyat: "75"
+sure: "20"
+mevcut: "1"
+
+yemek_adi: "hamburger"
+fiyat: "250"
+sure: "30"
+mevcut: "1"
+
+yemek_adi: "manti"
+fiyat: "170"
+sure: "45"
+mevcut: "0"
+
+yemek_adi: "tavuk_durum"
+fiyat: "80"
+sure: "15"
+mevcut: "1"
+
+yemek_adi: "et_durum"
+fiyat: "160"
+sure: "15"
+mevcut: "0"
+
+
+yemek_adi: "kebab"
+fiyat: "150"
+sure: "30"
+mevcut: "1"
